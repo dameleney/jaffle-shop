@@ -20,5 +20,5 @@ jobs:
    steps:
      - name: version
        command: dbt --version
-     - name: run project
-       command: dbt run
+    #  - name: run project
+    #    command: dbt run
